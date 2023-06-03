@@ -1,4 +1,4 @@
 # intel-image-classification
-This is an image classification project developed with other four members in college.
+This is a group project developed in university about classifying natural scene images
 
 All pretrained models are downloaded from [huggingface](https://github.com/huggingface/pytorch-image-models)
